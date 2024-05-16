@@ -48,3 +48,5 @@ Since ray tracing is relatively more "mature" than other realms, so focusing on 
 [https://vulkan-tutorial.com/Overview](https://)
 4. Brief introduction to foveat rendering  
 [https://www.tobii.com/blog/what-is-foveated-rendering](https://)
+5. Image Upscaling for Ray Traced Foveated Rendering  
+[https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9091182&fileOId=9091183](https://)

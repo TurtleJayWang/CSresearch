@@ -35,6 +35,10 @@ According to foveat rendering, which is a method that track the user's look poin
 * DLSS Deep Learning Super Sampling
 * Foveat rendering
 
+### 4. Some utilities 
+
+Since ray tracing is relatively more "mature" than other realms, so focusing on utilities can give me more topics to research. But I have not thought of any of the topics about utilities(The only thing crossed my mind is making a game engine).
+
 ## Papers, tutorials, and books to read
 1. Nvidia Efficient Sparse Voxel Octree  
 [https://research.nvidia.com/sites/default/files/pubs/2010-02_Efficient-Sparse-Voxel/laine2010i3d_paper.pdf](https://)
@@ -42,3 +46,5 @@ According to foveat rendering, which is a method that track the user's look poin
 [https://pbr-book.org/4ed/contents](https://)
 3. Vulkan tutorial  
 [https://vulkan-tutorial.com/Overview](https://)
+4. Brief introduction to foveat rendering  
+[https://www.tobii.com/blog/what-is-foveated-rendering](https://)

@@ -32,7 +32,7 @@ According to foveat rendering, which is a method that track the user's look poin
 * Foveat rendering
 
 #### Repository
-[https://github.com/TurtleJayWang/FRSVO/tree/main](https://)
+[https://github.com/TurtleJayWang/FRSVO](https://)
 
 ## Papers, tutorials, and books to read
 1. Nvidia Efficient Sparse Voxel Octree  

@@ -23,7 +23,7 @@ With image upscale technique, we are able to reduce the number of the rays we ca
 * DLSS Deep Learning Super Sampling
 * Foveat rendering
 
-### 3. *Foveat-rendering-like method apply to voxel octree in first person view for faster ray traversing*
+### 3. *Foveat-rendering-like method apply to voxel octree for faster ray traversing*
 
 According to foveat rendering, which is a method that track the user's look point to determine which spot of the screen(or VR headsets) should have greater resolution. Follow the idea, we can show more detailed voxels close to the center of our sight, as for those which are far from the center of our sight, we can ignore the detailed parts when tracing the rays. With this method, we can increase the speed when tracing the rays projecting to the parts far from the center of our sight. 
 

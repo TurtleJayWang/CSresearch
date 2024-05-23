@@ -6,7 +6,7 @@ My information technology research repository.
 
 ## The candidate topics:
 
-### 1. *The voxel based shader language with ray tracing*
+### 1. ~~*The voxel based shader language with ray tracing~~~
 
 This is the topic that I am most interested in, but this topic is more about implementation than research. And I think the shader language isn't necessary since there is a similar library which allows us to use GPU for voxel process.
 
@@ -15,7 +15,7 @@ This is the topic that I am most interested in, but this topic is more about imp
 * Vulkan
 * Efficent sparse voxel octree
 
-### 2. *Ray tracing with image upscale*
+### 2. ~~*Ray tracing with image upscale~~~
 
 With image upscale technique, we are able to reduce the number of the rays we cast, and we can also reduce the detail level of the voxel models.
 

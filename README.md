@@ -8,7 +8,7 @@ My information technology research repository.
 
 ### 1. *The voxel based shader language with ray tracing*
 
-This is the topic that I am most interested in, but this topic is more about implementation than research.
+This is the topic that I am most interested in, but this topic is more about implementation than research. And I think the shader language isn't necessary since there is a similar library which allows us to use GPU for voxel process.
 
 #### Related research or project:
 * GLSL, CG language
@@ -29,10 +29,6 @@ According to foveat rendering, which is a method that track the user's look poin
 
 #### Related research or project:
 * Efficient sparse voxel octree
-* Foveat rendering
-
-#### Related research or project:
-* DLSS Deep Learning Super Sampling
 * Foveat rendering
 
 ### 4. Some utilities 

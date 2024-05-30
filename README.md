@@ -29,8 +29,20 @@ According to foveat rendering, which is a method that track the user's look poin
 
 #### Related research or project:
 * Efficient sparse voxel octree
-* Foveat rendering
+* Foveat rendering  
 [https://youtu.be/lNX0wCdD2LA](https://)
+
+#### Module I will use
+* OpenCV
+* * For image process and screen create.
+* OpenGL
+* * For 3D render
+* OpenVDB / NanoVDB
+* * For Voxel data process
+* glm / Eigen(Optional)
+* * Math library
+* OpenCL
+* * GPU calculation
 
 #### Repository
 [https://github.com/TurtleJayWang/FRSVO.git](https://)

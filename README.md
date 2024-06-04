@@ -52,7 +52,7 @@ According to foveat rendering, which is a method that track the user's look poin
 [https://research.nvidia.com/sites/default/files/pubs/2010-02_Efficient-Sparse-Voxel/laine2010i3d_paper.pdf](https://)
 2. Physically based rendering  
 [https://pbr-book.org/4ed/contents](https://)
-3. Foveated Ray Tracing for VR Headsets
+3. Foveated Ray Tracing for VR Headsets  
 [https://link.springer.com/chapter/10.1007/978-3-030-05710-7_9](https://)
 5. Brief introduction to foveat rendering  
 [https://www.tobii.com/blog/what-is-foveated-rendering](https://)

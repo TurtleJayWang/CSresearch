@@ -58,3 +58,5 @@ According to foveat rendering, which is a method that track the user's look poin
 [https://www.tobii.com/blog/what-is-foveated-rendering](https://)
 6. Image Upscaling for Ray Traced Foveated Rendering  
 [https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9091182&fileOId=9091183](https://)
+7. An integrative view of foveated rendering
+[https://dl.acm.org/doi/abs/10.1016/j.cag.2021.10.010](https://)

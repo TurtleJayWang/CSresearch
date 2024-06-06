@@ -60,3 +60,5 @@ According to foveat rendering, which is a method that track the user's look poin
 [https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9091182&fileOId=9091183](https://)
 7. An integrative view of foveated rendering  
 [https://dl.acm.org/doi/abs/10.1016/j.cag.2021.10.010](https://)
+8. An integrative view of foveated rendering  
+[https://www.sciencedirect.com/science/article/pii/S0097849321002211?via%3Dihub#sec1](https://)

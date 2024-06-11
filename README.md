@@ -62,3 +62,5 @@ According to foveat rendering, which is a method that track the user's look poin
 [https://dl.acm.org/doi/abs/10.1016/j.cag.2021.10.010](https://)
 8. An integrative view of foveated rendering  
 [https://www.sciencedirect.com/science/article/pii/S0097849321002211?via%3Dihub#sec1](https://)
+9. Hybrid image/model-based gaze-contingent rendering
+[https://scholar.google.com/scholar_lookup?title=Hybrid%20imagemodel-based%20gaze-contingent%20rendering&publication_year=2009&author=H.A.%20Murphy&author=A.T.%20Duchowski&author=R.A.%20Tyrrell#d=gs_qabs&t=1718082781195&u=%23p%3DKgJeqUoXC9MJ](https://)
